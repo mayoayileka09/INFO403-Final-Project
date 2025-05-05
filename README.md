@@ -39,7 +39,7 @@ This repository contains code and data processing pipelines for analyzing the ex
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
